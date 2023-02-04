@@ -82,4 +82,4 @@ nueroticism: Scores in one of the sections of AMCAT's personality test
 openess_to_experience: Scores in one of the sections of AMCAT's personality test
 
 # Outcome
-Finally determined the salary of Indian engineering graduate on the basis of various factors
+Finally determined the salary of Indian engineering graduate on the basis of above factors
